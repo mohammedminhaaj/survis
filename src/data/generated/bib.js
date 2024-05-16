@@ -2,7 +2,7 @@
     "cahn2017chatbot": {
         "author": "Cahn, Jack",
         "journal": "University of Pennsylvania School of Engineering and Applied Science Department of Computer and Information Science",
-        "title": "CHATBOT: Architecture, design, \\& development",
+        "title": "{CHATBOT}: Architecture, design, \\& development",
         "type": "article",
         "year": "2017"
     },
@@ -26,11 +26,12 @@
     },
     "jamalimpact": {
         "author": "Jamal, Afiya and Pattanaik, Anmol and Gorli, Ravi and Chinmay, Ayes and Jaisai, Tenepalli",
-        "title": "THE IMPACT OF AI CHATBOTS ON TEACHER-STUDENT RELATIONSHIPS IN HIGHER EDUCATION",
+        "title": "{THE} {IMPACT} {OF} {AI} {CHATBOTS} {ON} {TEACHER}-{STUDENT} RELATI{ON}SHIPS {IN} {HIGHER} EDUCATI{ON",
         "type": "article"
     },
     "kooli2023chatbots": {
         "author": "Kooli, Chokri",
+        "doi": "10.3390/su15075614",
         "journal": "Sustainability",
         "number": "7",
         "pages": "5614",
@@ -42,29 +43,31 @@
     },
     "labadze2023role": {
         "author": "Labadze, Lasha and Grigolia, Maya and Machaidze, Lela",
+        "doi": "10.1186/s41239-023-00426-1",
         "journal": "International Journal of Educational Technology in Higher Education",
         "number": "1",
         "pages": "56",
         "publisher": "Springer",
-        "title": "Role of AI chatbots in education: systematic literature review",
+        "title": "Role of {AI} chatbots in education: systematic literature review",
         "type": "article",
         "volume": "20",
         "year": "2023"
     },
     "li2023curriculum": {
         "author": "Li, Yu and Qu, Shang and Shen, Jili and Min, Shangchao and Yu, Zhou",
-        "journal": "arXiv preprint arXiv:2309.16804",
+        "journal": "arXiv Preprint arXiv:2309.16804",
         "title": "Curriculum-Driven Edubot: A Framework for Developing Language Learning Chatbots Through Synthesizing Conversational Data",
         "type": "article",
         "year": "2023"
     },
     "mageira2022educational": {
         "author": "Mageira, Kleopatra and Pittou, Dimitra and Papasalouros, Andreas and Kotis, Konstantinos and Zangogianni, Paraskevi and Daradoumis, Athanasios",
+        "doi": "10.3390/app12073239",
         "journal": "Applied Sciences",
         "number": "7",
         "pages": "3239",
         "publisher": "MDPI",
-        "title": "Educational AI chatbots for content and language integrated learning",
+        "title": "Educational {AI} chatbots for content and language integrated learning",
         "type": "article",
         "volume": "12",
         "year": "2022"
@@ -74,7 +77,7 @@
         "journal": "International Journal of Innovative Research in Computer Science \\& Technology",
         "number": "3",
         "pages": "179--184",
-        "title": "NLP for Intelligent Conversational Assistance",
+        "title": "{NLP} for Intelligent Conversational Assistance",
         "type": "article",
         "volume": "9",
         "year": "2021"
