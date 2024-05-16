@@ -9,6 +9,7 @@
     "casas2020trends": {
         "author": "Casas, Jacky and Tricot, Marc-Olivier and Abou Khaled, Omar and Mugellini, Elena and Cudr{\\'e}-Mauroux, Philippe",
         "booktitle": "Companion Publication of the 2020 International Conference on Multimodal Interaction",
+        "doi": "10.1145/3395035.3425319",
         "pages": "280--286",
         "title": "Trends \\& methods in chatbot evaluation",
         "type": "inproceedings",
@@ -16,6 +17,7 @@
     },
     "chen2020artificial": {
         "author": "Chen, Lijia and Chen, Pingping and Lin, Zhijian",
+        "doi": "10.1109/ACCESS.2020.2988510",
         "journal": "Ieee Access",
         "pages": "75264--75278",
         "publisher": "Ieee",
@@ -26,7 +28,8 @@
     },
     "jamalimpact": {
         "author": "Jamal, Afiya and Pattanaik, Anmol and Gorli, Ravi and Chinmay, Ayes and Jaisai, Tenepalli",
-        "title": "{THE} {IMPACT} {OF} {AI} {CHATBOTS} {ON} {TEACHER}-{STUDENT} RELATI{ON}SHIPS {IN} {HIGHER} EDUCATI{ON",
+        "doi": "10.48047/ecb/2023.12.10.1822023.01/08/2023",
+        "title": "{THE} {IMPACT} {OF} {AI} {CHATBOTS} {ON} {TEACHER}-{STUDENT} RELATI{ON}SHIPS {IN} {HIGHER} EDUCATI{ON}",
         "type": "article"
     },
     "kooli2023chatbots": {
@@ -55,6 +58,7 @@
     },
     "li2023curriculum": {
         "author": "Li, Yu and Qu, Shang and Shen, Jili and Min, Shangchao and Yu, Zhou",
+        "doi": "10.48550/arXiv.2309.16804",
         "journal": "arXiv Preprint arXiv:2309.16804",
         "title": "Curriculum-Driven Edubot: A Framework for Developing Language Learning Chatbots Through Synthesizing Conversational Data",
         "type": "article",
@@ -74,6 +78,7 @@
     },
     "sharma2021nlp": {
         "author": "Sharma, Deepak and Paliwal, Mrinal and Rai, Jitender",
+        "doi": "10.55524/ijircst.2021.9.3.35",
         "journal": "International Journal of Innovative Research in Computer Science \\& Technology",
         "number": "3",
         "pages": "179--184",
